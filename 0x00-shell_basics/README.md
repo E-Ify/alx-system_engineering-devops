@@ -1,1 +1,1 @@
-Script to show an absolute file
+Script showing task 0
