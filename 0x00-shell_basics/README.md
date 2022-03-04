@@ -1,1 +1,1 @@
-writing absolute script path
+Writing absolute script path
