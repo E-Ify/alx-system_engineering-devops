@@ -1,1 +1,1 @@
-Writing absolute script path
+My absolute path script readme
