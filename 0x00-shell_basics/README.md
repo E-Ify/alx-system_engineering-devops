@@ -1,1 +1,1 @@
-Script showing task 0
+writing absolute script path
